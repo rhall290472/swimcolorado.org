@@ -56,3 +56,8 @@ td {
   font-family: "lucida sans unicode", "lucida grande", "sans-serif";
   text-align: center;
 }
+
+.CenterTable{
+  margin-left: auto;
+  margin-right: auto;
+}
