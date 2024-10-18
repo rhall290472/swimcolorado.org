@@ -1,4 +1,5 @@
 ATHLETES
   Western Zone Diversity Camp - Dated 2021 is this relevant? Any updated informmation?
 
-  
+TIME STANDARDS CSI
+  Silver State - Points to 2019-silver-state, make Analytics bad. Fixed Meta Tags
