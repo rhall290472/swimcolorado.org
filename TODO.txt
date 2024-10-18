@@ -1,5 +1,38 @@
 ATHLETES
   Western Zone Diversity Camp - Dated 2021 is this relevant? Any updated informmation?
 
+
+GOVERNANCE 
+  ABOUT US
+    Membership Information and Fees - Broken link
+    Colorado Swimming History - Has not been updated since 2021
+  Corporate Documents
+    Bylaws 12/13/2023, document states revised 12/05/2023 ?? Which is correct?
+    Financial Statements and Budget, missing FY2024 and Budget
+    Strategic Plans - seems to be none, dated 2021
+  House of Delegates
+    Annual Awards Recipients, does that really belong here??
+    2024 Candidate job descriptins and Interest form? Broken link, should go to deadline passed messgae or something.
+  Board of Directors
+    Colorado Swimming Board of Directors, out of date, bad format
+    Meeting Schedule and Minutes, Really? thats the best we can do?
+    Miscellaneous items, appears to be a bunch of junk??
+    Email sign up links and QR Codes, downloads a word document, why??
+  Statnding Committee Contactes/Minutes
+    Not a have links
+    No contact Information  
+    Minutes VERY old 2021
+  Volunteerism
+    Volunteer at Your Club/Team, tries to download word document, why?
+    Volunteer to Become a USA Swimming Official, again tries to downlaod a word document, why?
+    General Volunteering Opportunties, do we keep this? What about Bret's videos??
+
+
+MEETS/RESULTS
+  Very outdated content
+
+RECORS/TOP TIMES
+  Needs work..
+
 TIME STANDARDS CSI
   Silver State - Points to 2019-silver-state, make Analytics bad. Fixed Meta Tags
