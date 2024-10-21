@@ -1003,7 +1003,7 @@ body {
   color: #8a8d8f;
 }
 
-/*h1 {
+h1 {
   color: #041e42;
   font-size: 90px;
   line-height: 96px;
@@ -1053,7 +1053,7 @@ h6 {
   line-height: 24px;
   font-family: 'Source Sans Pro';
   font-weight: 600;
-}*/
+}
 
 
 /**
@@ -1726,4 +1726,9 @@ div.Content_ContentOverlineWithTitle {
 
 #textLine2{
   text-align:center;
+}
+
+.nav-link{
+  font-family: Oswald;
+  font-size: 21px;
 }
