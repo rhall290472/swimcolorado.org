@@ -1711,6 +1711,11 @@ div.Content_ContentOverlineWithTitleAndSubtext {
   text-align: center;
 }
 
+div.Content_ContentOverlineWithTitle {
+  margin-left: 25px;
+  max-width: 800px;
+}
+
 .Content_ContentOverlineWithTitleAndSubtext h6 {
   margin-bottom: 10px;
 }
