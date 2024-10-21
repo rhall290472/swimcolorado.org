@@ -3,7 +3,12 @@ ATHLETES
   Add ??
     NCSA
     Swimcloud
-    
+
+
+CLUBS
+  Warm-up Procedures out of date
+  OBSERVED MEETS
+    Form A & Form B are word docx? Why ??
 
 
 GOVERNANCE 
@@ -30,6 +35,7 @@ GOVERNANCE
     Volunteer at Your Club/Team, tries to download word document, why?
     Volunteer to Become a USA Swimming Official, again tries to downlaod a word document, why?
     General Volunteering Opportunties, do we keep this? What about Bret's videos??
+    Add Meet Marshal Instructions.. SEE CLUBS
 
 
 MEETS/RESULTS
