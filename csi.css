@@ -1285,6 +1285,12 @@ pre code {
   text-decoration: none;
 }
 
+table { 
+    margin-left: auto;
+    margin-right: auto;
+}
+}
+
 .csi table {
   width: 100%
 }
