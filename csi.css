@@ -10939,7 +10939,7 @@ pre code {
 }
 
 .csi tbody td:first-child {
-  font-weight: bold;
+  font-weight: normal;  /* bold */
 }
 
 .csi tbody>tr>td>a {
