@@ -8421,7 +8421,7 @@ body {
   }
 
 .usas .usas-button-donate {
-  background: url('/ResourcePackages/Usas/assets/dist/images/FoundationLogo.png') calc(46% - 30px) 50% no-repeat, linear-gradient(45deg, #00b3e4, #048bb0);
+  background: url('https://www.usaswimming.org/ResourcePackages/Usas/assets/dist/images/FoundationLogo.png') calc(46% - 30px) 50% no-repeat, linear-gradient(45deg, #00b3e4, #048bb0);
   background-size: 35px, auto;
   border-radius: 2px !important;
   color: #fff;
@@ -8441,7 +8441,7 @@ body {
 }
 
   .usas .usas-button-donate:hover {
-      background: url('/ResourcePackages/Usas/assets/dist/images/FoundationLogo.png') calc(47% - 30px) 50% no-repeat, linear-gradient(45deg, #00b3e4, #026782);
+      background: url('https://www.usaswimming.org/ResourcePackages/Usas/assets/dist/images/FoundationLogo.png') calc(47% - 30px) 50% no-repeat, linear-gradient(45deg, #00b3e4, #026782);
       background-size: 35px, auto;
   }
 
@@ -8466,7 +8466,7 @@ body {
 
 .usas .usas-card-with-arrow {
   background-color: #fff;
-  background-image: url('/ResourcePackages/Usas/assets/dist/images/V2/blue-arrow-with-padding.png');
+  background-image:  url('https://www.usaswimming.org/ResourcePackages/Usas/assets/dist/images/V2/blue-arrow-with-padding.pngs');
   background-origin: padding-box;
   background-position: bottom right;
   background-repeat: no-repeat;
@@ -8476,7 +8476,7 @@ body {
 
   .usas .usas-card-with-arrow:hover {
       background-color: #fff;
-      background-image: url('/ResourcePackages/Usas/assets/dist/images/V2/blue-arrow-with-padding.png');
+      background-image:  url('https://www.usaswimming.org/ResourcePackages/Usas/assets/dist/images/V2/blue-arrow-with-padding.png');
       background-origin: padding-box;
       background-position: bottom right;
       background-repeat: no-repeat;
@@ -8496,7 +8496,7 @@ body {
 
 .usas .usas-card-inverse-with-arrow {
   background-color: #062e65;
-  background-image: url('/ResourcePackages/Usas/assets/dist/images/V2/blue-arrow-with-padding.png');
+  background-image:  url('https://www.usaswimming.org/ResourcePackages/Usas/assets/dist/images/V2/blue-arrow-with-padding.png');
   background-origin: padding-box;
   background-position: bottom right;
   background-repeat: no-repeat;
@@ -8506,7 +8506,7 @@ body {
 
   .usas .usas-card-inverse-with-arrow:hover {
       background-color: #062e65;
-      background-image: url('/ResourcePackages/Usas/assets/dist/images/V2/blue-arrow-with-padding.png');
+      background-image:  url('https://www.usaswimming.org/ResourcePackages/Usas/assets/dist/images/V2/blue-arrow-with-padding.png');
       background-origin: padding-box;
       background-position: bottom right;
       background-repeat: no-repeat;
@@ -9978,7 +9978,7 @@ body>div {
 }
 
 .csi .csi-button-donate {
-  background: url('/ResourcePackages/csi/assets/dist/images/FoundationLogo.png') calc(46% - 30px) 50% no-repeat, linear-gradient(45deg, #00b3e4, #048bb0);
+  background:  url('https://www.usaswimming.org/ResourcePackages/csi/assets/dist/images/FoundationLogo.png') calc(46% - 30px) 50% no-repeat, linear-gradient(45deg, #00b3e4, #048bb0);
   background-size: 35px, auto;
   border-radius: 2px !important;
   color: #fff;
@@ -9999,7 +9999,7 @@ body>div {
 }
 
 .csi .csi-button-donate:hover {
-  background: url('/ResourcePackages/csi/assets/dist/images/FoundationLogo.png') calc(47% - 30px) 50% no-repeat, linear-gradient(45deg, #00b3e4, #026782);
+  background:  url('https://www.usaswimming.org/ResourcePackages/csi/assets/dist/images/FoundationLogo.png') calc(47% - 30px) 50% no-repeat, linear-gradient(45deg, #00b3e4, #026782);
   background-size: 35px, auto;
 }
 
@@ -10024,7 +10024,7 @@ body>div {
 
 .csi .csi-card-with-arrow {
   background-color: #fff;
-  background-image: url('/ResourcePackages/csi/assets/dist/images/V2/blue-arrow-with-padding.png');
+  background-image:  url('https://www.usaswimming.org/ResourcePackages/csi/assets/dist/images/V2/blue-arrow-with-padding.png');
   background-origin: padding-box;
   background-position: bottom right;
   background-repeat: no-repeat;
@@ -10034,7 +10034,7 @@ body>div {
 
 .csi .csi-card-with-arrow:hover {
   background-color: #fff;
-  background-image: url('/ResourcePackages/csi/assets/dist/images/V2/blue-arrow-with-padding.png');
+  background-image:  url('https://www.usaswimming.org/ResourcePackages/csi/assets/dist/images/V2/blue-arrow-with-padding.png');
   background-origin: padding-box;
   background-position: bottom right;
   background-repeat: no-repeat;
@@ -10054,7 +10054,7 @@ body>div {
 
 .csi .csi-card-inverse-with-arrow {
   background-color: #062e65;
-  background-image: url('/ResourcePackages/csi/assets/dist/images/V2/blue-arrow-with-padding.png');
+  background-image:  url('https://www.usaswimming.org/ResourcePackages/csi/assets/dist/images/V2/blue-arrow-with-padding.png');
   background-origin: padding-box;
   background-position: bottom right;
   background-repeat: no-repeat;
@@ -10064,7 +10064,7 @@ body>div {
 
 .csi .csi-card-inverse-with-arrow:hover {
   background-color: #062e65;
-  background-image: url('/ResourcePackages/csi/assets/dist/images/V2/blue-arrow-with-padding.png');
+  background-image:  url('https://www.usaswimming.org/ResourcePackages/csi/assets/dist/images/V2/blue-arrow-with-padding.png');
   background-origin: padding-box;
   background-position: bottom right;
   background-repeat: no-repeat;
@@ -11615,7 +11615,7 @@ body {
   }
 
 .usas .usas-button-donate {
-  background: url('/ResourcePackages/Usas/assets/dist/images/FoundationLogo.png') calc(46% - 30px) 50% no-repeat, linear-gradient(45deg, #00b3e4, #048bb0);
+  background:  url('https://www.usaswimming.org/ResourcePackages/Usas/assets/dist/images/FoundationLogo.png') calc(46% - 30px) 50% no-repeat, linear-gradient(45deg, #00b3e4, #048bb0);
   background-size: 35px, auto;
   border-radius: 2px !important;
   color: #fff;
@@ -11635,7 +11635,7 @@ body {
 }
 
   .usas .usas-button-donate:hover {
-      background: url('/ResourcePackages/Usas/assets/dist/images/FoundationLogo.png') calc(47% - 30px) 50% no-repeat, linear-gradient(45deg, #00b3e4, #026782);
+      background: url('https://www.usaswimming.org/ResourcePackages/Usas/assets/dist/images/FoundationLogo.png') calc(47% - 30px) 50% no-repeat, linear-gradient(45deg, #00b3e4, #026782);
       background-size: 35px, auto;
   }
 
@@ -11660,7 +11660,7 @@ body {
 
 .usas .usas-card-with-arrow {
   background-color: #fff;
-  background-image: url('/ResourcePackages/Usas/assets/dist/images/V2/blue-arrow-with-padding.png');
+  background-image:  url('https://www.usaswimming.org/ResourcePackages/Usas/assets/dist/images/V2/blue-arrow-with-padding.png');
   background-origin: padding-box;
   background-position: bottom right;
   background-repeat: no-repeat;
@@ -11670,7 +11670,7 @@ body {
 
   .usas .usas-card-with-arrow:hover {
       background-color: #fff;
-      background-image: url('/ResourcePackages/Usas/assets/dist/images/V2/blue-arrow-with-padding.png');
+      background-image: url('https://www.usaswimming.org/ResourcePackages/Usas/assets/dist/images/V2/blue-arrow-with-padding.png');
       background-origin: padding-box;
       background-position: bottom right;
       background-repeat: no-repeat;
@@ -11690,7 +11690,7 @@ body {
 
 .usas .usas-card-inverse-with-arrow {
   background-color: #062e65;
-  background-image: url('/ResourcePackages/Usas/assets/dist/images/V2/blue-arrow-with-padding.png');
+  background-image: url('https://www.usaswimming.org/ResourcePackages/Usas/assets/dist/images/V2/blue-arrow-with-padding.png');
   background-origin: padding-box;
   background-position: bottom right;
   background-repeat: no-repeat;
@@ -11700,7 +11700,7 @@ body {
 
   .usas .usas-card-inverse-with-arrow:hover {
       background-color: #062e65;
-      background-image: url('/ResourcePackages/Usas/assets/dist/images/V2/blue-arrow-with-padding.png');
+      background-image: url('https://www.usaswimming.org/ResourcePackages/Usas/assets/dist/images/V2/blue-arrow-with-padding.png');
       background-origin: padding-box;
       background-position: bottom right;
       background-repeat: no-repeat;
