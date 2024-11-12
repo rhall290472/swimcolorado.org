@@ -1,3 +1,21 @@
+.card-deck{
+    box-sizing: border-box;
+      cursor: pointer;
+      margin-bottom: 20px;
+      margin-right: 20px;
+      max-width: calc(16.667% - 20px);
+      min-height: 173px;
+      min-width: calc(16.667% - 20px);
+      background-color: #062e65;
+      background-image:  url('https://www.usaswimming.org/ResourcePackages/Usas/assets/dist/images/V2/blue-arrow-with-padding.png');
+      background-origin: padding-box;
+      background-position: bottom right;
+      background-repeat: no-repeat;
+      filter: drop-shadow(0 10px 30px rgba(4, 30, 66, 0.1));
+      padding: 20px;
+    
+}
+
 
 /*********************************
 
