@@ -12968,3 +12968,9 @@ div.Content_TopResources {
     }
 }
 
+
+.watermark {
+  opacity: 0.5;
+  color: RED;
+  font-size: 24px
+}
