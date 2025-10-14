@@ -9895,20 +9895,17 @@ body>div {
 
 /* csi buttons */
 .csi .csi-button-primary {
-  background-image: linear-gradient(45deg, #e02a4f, #ba0c2f);
-  border-radius: 2px;
+background-color: #E02A4F;
+  border-color: #E02A4F;
   color: #fff;
-  cursor: pointer;
-  font-family: Source Sans Pro;
-  /*font-size: 0.875em;*/
-  font-size: 15px;
-  /* pin buttons to 15px */
-  font-weight: 600;
-  height: 58px;
-  letter-spacing: 2px;
-  line-height: 58px;
+  border-radius: 15px; /* This creates the pill shape; adjust if needed for exact half-height matching */
+  padding: 5px, 10px;
+  margin-bottom: 10px;
   text-align: center;
-  text-transform: uppercase;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 75px;
 }
 
 .csi .csi-button-primary:hover {
@@ -10986,7 +10983,7 @@ table {
 }
 
 .csi table {
-  width: 100%
+  width: 80%
 }
 
 .csi table th:first-child {
