@@ -13076,3 +13076,45 @@ div.Content_TopResources {}
     color: RED;
     font-size: 24px
 }
+
+/* Base style for the button: red background, white text */
+.csi-button-pill {
+    display: inline-block;
+    background-color: #E02A4F; /* Red background in normal state */
+    color: #FFFFFF; /* White text */
+    font-weight: 600;
+    border-radius: 26px;
+    line-height: 16px;
+    text-align: center;
+    width: 7.5vw; /* Fixed width; adjust if needed */
+    position: relative;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 14px;
+}
+
+/* Hover and active states: white background, gray text */
+.csi-button-pill:hover,
+.csi-button-pill:active,
+.csi-button-pill.active {
+    background-color: #FFFFFF; /* White background on hover/active */
+    color: #687481; /* Gray text to match nav-pills normal state */
+    text-decoration: none;
+}
+
+/* Focus state for accessibility */
+.csi-button-pill:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(224, 42, 79, 0.25); /* Subtle red glow */
+}
+
+/* Optional: Mobile responsiveness */
+@media (max-width: 767px) {
+    .csi-button-pill {
+        width: 100%; /* Full-width on mobile */
+        font-size: 12px; /* Smaller text */
+    }
+}
