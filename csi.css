@@ -13086,7 +13086,8 @@ div.Content_TopResources {}
     border-radius: 26px;
     line-height: 16px;
     text-align: center;
-    width: 7.5vw; /* Fixed width; adjust if needed */
+    min-width: 7.5vw; /* Fixed width; adjust if needed */
+    width: fit-content;
     position: relative;
     padding: 10px 15px;
     border: none;
@@ -13116,6 +13117,8 @@ div.Content_TopResources {}
     .csi-button-pill {
         width: 100%; /* Full-width on mobile */
         font-size: 12px; /* Smaller text */
+        margin-bottom: 10px;
+        display: block
     }
 }
 
