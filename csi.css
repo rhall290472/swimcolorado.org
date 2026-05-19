@@ -13198,3 +13198,10 @@ div.Content_TopResources {}
   padding-top: 3.5rem !important;
   padding-bottom: 3.5rem !important;
 }
+
+
+.external-link::after {
+    content: " ↗";
+    font-size: 0.9em;
+}
+
